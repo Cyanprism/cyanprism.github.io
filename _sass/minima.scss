@@ -10,9 +10,33 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #111 !default;
-$background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+@media (prefers-color-scheme: light) {
+  :root {
+      --body-bg:            #fdfdfd;
+      --body-color:         #111;
+      --link-color:         #2a7ae2;
+      --visited-link-color: #1b66c8;
+      --line-color:         #e8e8e8;
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body-bg:            #282828;
+    --body-color:         #fdfdfd;
+    --link-color:         #8ab4f8;
+    // --visited-link-color: #c58af9;
+    --visited-link-color: #5391f5;
+    --line-color:         #4e4e4e;
+  }
+}
+
+$text-color:          var(--body-color) !default;
+$background-color:    var(--body-bg) !default;
+$brand-color:         var(--link-color) !default;
+$visited-brand-color: var(--visited-link-color) !default;
+$line-color:          var(--line-color) !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
