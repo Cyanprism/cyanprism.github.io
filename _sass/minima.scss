@@ -10,14 +10,12 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-@media (prefers-color-scheme: light) {
-  :root {
-      --body-bg:            #fdfdfd;
-      --body-color:         #111;
-      --link-color:         #2a7ae2;
-      --visited-link-color: #1b66c8;
-      --line-color:         #e8e8e8;
-  }
+:root {
+    --body-bg:            #fdfdfd;
+    --body-color:         #111;
+    --link-color:         #2a7ae2;
+    --visited-link-color: #1b66c8;
+    --line-color:         #e8e8e8;
 }
 
 /* Dark mode */
@@ -26,7 +24,6 @@ $spacing-unit:     30px !default;
     --body-bg:            #282828;
     --body-color:         #fdfdfd;
     --link-color:         #8ab4f8;
-    // --visited-link-color: #c58af9;
     --visited-link-color: #5391f5;
     --line-color:         #4e4e4e;
   }

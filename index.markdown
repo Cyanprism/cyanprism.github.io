@@ -10,5 +10,5 @@ I am a second-year graduate student at the Moscow Institute of Physics and Techn
 In 2017, I graduated from school No. 33 with in-depth study of mathematics in Yaroslavl, Russia. In high school, I was mainly interested in competitive programming ( <a href="https://codeforces.com/profile/Cyanprism"><img src="{{ '/assets/codeforces_logo.png' | relative_url }}" width="20px"> <span class="username">cyanprism</span></a> ). In 2016 and 2017, I was a prize-winner of the All-Russian School Olympiad in Informatics. Later I was an active participant of the ICPC.
 
 At the university, I began to be interested in algebra and discrete mathematics, and later in geometry and topology. 
-In 2021, I completed my bachelor's degree under the supervision of prof. Nikolay V. Bogachev. The thesis is published as a preprint at arXiv.
+In 2021, I completed my bachelor's degree under the supervision of prof. <a href="https://nvbogachev.netlify.app">Nikolay V. Bogachev</a>. The thesis is published as a preprint at arXiv.
 
