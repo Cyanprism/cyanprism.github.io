@@ -17,14 +17,19 @@ layout: default
     }
 
     @media all and (min-width: 600px) {
-      #photo-wrap{
+      #photo-wrap {
         float: left
       }
+
+      #photo-wrap {
+        margin: 0 2em .5em 0
+      }
     }
+
 </style>
 
 <div class="home">
-  <figure id="photo-wrap" style="margin: 0 2em .5em 0">
+  <figure id="photo-wrap">
     <img id="photo" src="{{ '/assets/photo.jpg' | relative_url }}" width="300" style="border-radius: 5pt; align: center">
     <figcaption align="center" style="padding: .5em 0 0 0"><i> Photo by Ivan Smirnov. </i></figcaption>
   </figure>
