@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+# Test
+
 # Research Interests
 Coxeter polytopes, right-angled polytopes, hyperbolic geometry, combinatorics of polytopes, hyperbolic manifolds, reflection groups.
 
