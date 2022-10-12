@@ -16,6 +16,7 @@ $spacing-unit:     30px !default;
     --link-color:         #2a7ae2;
     --visited-link-color: #1b66c8;
     --line-color:         #e8e8e8;
+    --dark-line-color:    #585858;
 }
 
 /* Dark mode */
@@ -26,6 +27,7 @@ $spacing-unit:     30px !default;
     --link-color:         #8ab4f8;
     --visited-link-color: #5391f5;
     --line-color:         #4e4e4e;
+    --dark-line-color:    #686868;
   }
 }
 
@@ -34,6 +36,7 @@ $background-color:    var(--body-bg) !default;
 $brand-color:         var(--link-color) !default;
 $visited-brand-color: var(--visited-link-color) !default;
 $line-color:          var(--line-color) !default;
+$dark-line-color:     var(--dark-line-color) !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
