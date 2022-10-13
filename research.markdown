@@ -9,7 +9,7 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, combinatorics of
 
 # Current Projects
 - **Dimension bound for Coxeter polytopes**
-- **Arithmetic, geometry, and topology of hyperbolic orbyfolds** (with Nikolay Bogachev, Andrei Egorov, Dmitry Gushchin, and Andrei Vesnin)
+- **Arithmetic, geometry, and topology of hyperbolic orbifolds** (with Nikolay Bogachev, Andrei Egorov, Dmitry Gushchin, and Andrei Vesnin)
 - **Topology of rangom simplicial complexes** (with Nikolay Bogachev and Maksim Zhukovskii)
 
 # Preprints
