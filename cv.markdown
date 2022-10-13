@@ -10,7 +10,7 @@ The complete CV can be found [here](/cv.pdf).
 - **Teaching assistant** at Departement of Discrete Mathematics, MIPT, Moscow
 - **Intern** at Laboratory of Combinatorial and Geometric Structures, MIPT, Moscow
 
-# Educations
+# Education
 - **B.Sc.** in Applied Mathematics and Informatics, MIPT, Moscow
 
 # Talks
