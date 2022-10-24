@@ -7,7 +7,7 @@ permalink: /cv/
 The complete CV can be found [here](/cv.pdf).
 
 # Current positions
-- **Teaching assistant** at Departement of Discrete Mathematics, MIPT, Moscow
+- **Teaching assistant** at Department of Discrete Mathematics, MIPT, Moscow
 - **Intern** at Laboratory of Combinatorial and Geometric Structures, MIPT, Moscow
 
 # Education
