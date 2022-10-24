@@ -31,6 +31,17 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+defaults:
+  - scope:
+      path: google8593eb20cc8d02dc.html
+    values:
+      sitemap: false
+
+  - scope:
+      path: yandex_3ba41d6ca7497d0f.html
+    values:
+      sitemap: false
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
