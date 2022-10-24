@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /cv.pdf
+Disallow: /yandex_3ba41d6ca7497d0f.html
+Disallow: /google8593eb20cc8d02dc.html
 Sitemap: https://cyanprism.github.io/sitemap.xml
