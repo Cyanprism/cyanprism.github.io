@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+last_modified_at: 2022-11-01
 ---
 
 I am a master student at Moscow Institute of Physics and Technology (MIPT). I am interested in geometry, algebra, combinatorics, and algorithms. My current projects are related to Coxeter polytopes in hyperbolic spaces. Besides the research activity, I also teach at MIPT. In particular, I conduct seminars on measure theory, computational complexity, and mathematical logic.

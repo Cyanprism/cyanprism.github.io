@@ -2,6 +2,7 @@
 layout: page
 title: Résumé & CV
 permalink: /cv/
+last_modified_at: 2022-11-03
 ---
 
 The complete CV can be found [here](/cv.pdf).
