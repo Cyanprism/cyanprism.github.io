@@ -9,7 +9,7 @@ last_modified_at: 2022-11-13
 Coxeter polytopes, right-angled polytopes, hyperbolic geometry, combinatorics of polytopes, hyperbolic manifolds, reflection groups.
 
 # Current Projects
-- **Dimension bounds of hyperbolic Coxeter polytopes**
+- **Dimension bounds for hyperbolic Coxeter polytopes**
 - **Arithmetic, geometry, and topology of hyperbolic orbifolds** (with [Nikolay Bogachev](https://nvbogachev.netlify.app), Andrei Egorov, Dmitry Gushchin, and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))
 - **Topology of random simplicial complexes** (with [Nikolay Bogachev](https://nvbogachev.netlify.app) and Maksim Zhukovskii)
 
