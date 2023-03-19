@@ -125,6 +125,11 @@ a {
 }
 
 
+.hds-link:visited svg g path {
+  fill: var(--link-visited-color);
+}
+
+
 /**
  * Blockquotes
  */
@@ -140,7 +145,6 @@ blockquote {
     margin-bottom: 0;
   }
 }
-
 
 
 /**
