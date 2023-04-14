@@ -19,7 +19,7 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, combinatorics of
 - **On ideal vertices of right-angled hyperbolic polyhedra**\
   {% include arxiv_link.html id="2303.09533" %}
 - **Lannér diagrams and combinatorial properties of hyperbolic Coxeter polytopes**\
-  {% include arxiv_link.html id="2203.07248" %}---submitted to *Transactions of the AMS*
+  {% include arxiv_link.html id="2203.07248" %}---accepted to *Transactions of the AMS*
 - **On volumes of hyperbolic right-angled polyhedra**\
   {% include arxiv_link.html id="2111.08789" %}---accepted to *Sbornik: Mathematics*\
   [doi:10.4213/sm9740](https://www.mathnet.ru/eng/sm9740)---published in Russian in *Matematicheskii Sbornik*
