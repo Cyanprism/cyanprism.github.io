@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-last_modified_at: 2023-05-04
+last_modified_at: 2023-09-01
 ---
 
 I am a master of Computer Science and Computer Engineering. I am interested in geometry, topology, algebra, logic, number theory, combinatorics, and algorithms. My current projects are related to hyperbolic reflective lattices, arithmetic groups, and hyperbolic knot theory. Besides the research activity, I also taught at the Moscow Institute of Physics and Technology (MIPT). In particular, last semester I taught differential topology, algebraic topology, and mathematical logic.
