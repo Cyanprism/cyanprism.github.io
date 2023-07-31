@@ -6,7 +6,7 @@ last_modified_at: 2022-11-13
 ---
 
 # Research Interests
-Coxeter polytopes, right-angled polytopes, hyperbolic geometry, combinatorics of polytopes, hyperbolic manifolds, reflection groups.
+Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic groups, combinatorics of polytopes, hyperbolic manifolds, reflection groups.
 
 # Current Projects
 - **Dimension bounds and classification of hyperbolic Coxeter polytopes**

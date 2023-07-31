@@ -12,6 +12,7 @@ The complete CV can be found [here](/cv.pdf).
 - **Intern** at Laboratory of Combinatorial and Geometric Structures, MIPT, Moscow
 
 # Education
+- **M.Sc.** in Computer Science and Computer Engineering, MIPT, Moscow
 - **B.Sc.** in Applied Mathematics and Informatics, MIPT, Moscow
 
 # Talks
