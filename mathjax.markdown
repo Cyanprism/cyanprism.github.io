@@ -9,4 +9,4 @@ mathjax: true
 
 This is a test of MathJax. Did you know that \\(2^3 = 8\\)?
 
-\\[ H^4 = \{x \mid \langle x, x \rangle = -1 \ \& \ x_0 > 0\} \\]
+\\[ H^4 = \\{x \mid \langle x, x \rangle = -1 \ \& \ x_0 > 0\\} \\]
